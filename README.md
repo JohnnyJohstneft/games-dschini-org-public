@@ -1,6 +1,6 @@
 # games-dschini-org-public
 
-![dschini.org](src/dschini_medium.jpg)
+![dschini.org](htdocs/img/dschini_medium.png)
 
 games.dschini.org is public now. feel free to fork the code.
 
