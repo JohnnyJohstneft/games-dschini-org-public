@@ -2,7 +2,7 @@
 
 ![dschini.org](htdocs/img/dschini_medium.png)
 
-games.dschini.org is public now. feel free to fork the code.
+http://games.dschini.org is public now. feel free to fork the code.
 
 # apt-get update
 # apt-get install apache2
