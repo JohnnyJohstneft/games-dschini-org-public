@@ -1,6 +1,6 @@
 ![dschini.org](htdocs/img/dschini_medium.png)
 
-http://games.dschini.org is public now. feel free to fork it.
+http://games.dschini.org is public now. feel free to fork it. The code is based on https://github.com/crafics/mvc-php
 
 ### Install
 
@@ -32,3 +32,10 @@ http://games.dschini.org is public now. feel free to fork it.
     FLUSH PRIVILEGES;
     CREATE database games_dschini_org;
     mysql -uroot -secret-pwd-pls-change games_dschini_org < docs/games_dschini_org.sql
+
+### Then
+
+    Register a user
+    Login
+    At least once a month run-cron.sh or look into cron folder
+ 
