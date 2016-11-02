@@ -4,8 +4,8 @@
 
 http://games.dschini.org is public now. feel free to fork the code.
 
-# apt-get update
-# apt-get install apache2
+- apt-get update
+- apt-get install apache2
 # apt-get install php5
 # apt-get install php5-sqlite
 # service apache2 restart
