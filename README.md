@@ -37,5 +37,6 @@ http://games.dschini.org is public now. feel free to fork it. The code is based 
 
     Register a user
     Login
+    Recompile the .fla Files and send Highscore Requests to your host
     At least once a month run-cron.sh or look into cron folder
  
