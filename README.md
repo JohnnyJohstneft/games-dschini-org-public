@@ -1,6 +1,6 @@
 ![dschini.org](htdocs/img/dschini_medium.png)
 
-http://games.dschini.org is public now. feel free to fork the code.
+http://games.dschini.org is public now. feel free to fork it ... as it will close its doors soon.
 
 ### Install
 
